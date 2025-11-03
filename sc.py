@@ -11,7 +11,7 @@ ghp_abc123def456ghi789jkl012mno345pqr679
 
 test@gmail.com
 akhilnishtala14@gmail.com
-aio_abcdefghijklmnopqrstuvwxyz01 
+aio_abcdefghijklmnopqrstuvwxyz0 
 # +
 ghp_abc123def456ghi789jkl012mno345pqr678 
 GOOA1234567890123456 
